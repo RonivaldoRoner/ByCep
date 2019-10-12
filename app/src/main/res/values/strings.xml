@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Consultar CEP</string>
+    <string name="insert_cep">Informe um CEP</string>
+    <string name="search_address">Buscar</string>
+    <string name="address_empty">Nenhum endereço encontrado</string>
+    <string name="address_failed">Uma falha inesperada aconteceu, verifique o Cep informado e tente novamente</string>
+    <string name="length_cod">O Cep deve conter 8 digitos</string>
+    <string name="street">Logradouro:</string>
+    <string name="comp">Comp:</string>
+    <string name="neighborhood">Bairro:</string>
+    <string name="city">Cidade:</string>
+    <string name="uf">UF:</string>
+    <string name="unity">Unidade:</string>
+    <string name="ibge">IBGE:</string>
+    <string name="gia">Gia:</string>
+</resources>
